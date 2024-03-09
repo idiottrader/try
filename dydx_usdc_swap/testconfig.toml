@@ -1,0 +1,14 @@
+access_key = "13c5b344-987f-bc0f-d8a6-5163e92d9611"
+secret_key = "D4qx1UW5p6dAoBpafAEYjsbyWpeSFbm_U_LMhlQ9"
+pass_key   = "IVzz431yhL3jxMv4jiTN"
+
+walletAddress   = "0x816965EB4a8fDc99D712fb0273cd958a716eA96b"
+starkPrivateKey = "0315864e21e7a4b50305c002bdea45aaccd0578938ffe328c4a83ea8cfd29ffc"
+
+
+rest_url = ""
+ws_url   = ""
+##proxy_url= "socks5://127.0.0.1:33211"
+proxy_url= "socks5://127.0.0.1:7890"
+symbol   = "ltc_usd"
+
