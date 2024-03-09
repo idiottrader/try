@@ -1,0 +1,10 @@
+access_key = "dcc9c965-afbb-43c1-9f5a-149a155a2888"
+secret_key = "331b7de7-ac76-49b7-a1b5-b712a823fb27"
+
+pass_key = ""
+rest_url = "https://app-api.acx.finance/arbitrum"
+ws_url   = "wss://app-api.acx.finance/arbitrum"
+proxy_url= "socks5://127.0.0.1:33211"
+symbol   = "btc_usdc"
+
+
